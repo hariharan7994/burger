@@ -1,0 +1,86 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Agdasima&family=Belanosima&family=Caprasimo&family=Lexend+Peta:wght@100&display=swap');
+body{
+    background-image: url(./imgs/burger-french-fries-hamburger-wallpaper-preview.jpg);
+    background-size: 2305px 1098px;
+    background-repeat: no-repeat;
+}
+nav{
+    display: flex;
+    background-color: #00003e;
+    color: white;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 20px;
+    font-family: 'Agdasima', sans-serif;
+}
+nav ul{
+    display: flex;
+    list-style: none;
+}
+nav ul li{
+    margin: 0 10px;
+    padding: 10px 20px;
+
+}
+nav ul li a{
+    text-decoration: none;
+    color: white;
+}
+button{
+    padding: 5px 10px;
+    border-radius: 10px;
+    font-weight: bold;
+    background-color: black;
+    color: white;
+    font-family: 'Agdasima', sans-serif;
+    
+}
+button:hover{
+    background-color:white;
+    color: black;
+    border-color: white;
+}
+h1{
+    color: brown;
+    margin-left: 39px;
+    font-family: 'Agdasima', sans-serif;
+}
+h2{
+    color: white;
+    font-size: 40px;
+    margin-top: 113px;
+    margin-left: 77px;
+    font-family: 'Agdasima', sans-serif;
+
+}
+p{
+    color: brown;
+    font-size: 21px;
+    margin-top: -37px;
+    margin-left: 100px;
+    font-family: 'Agdasima', sans-serif;
+}
+.b1{
+    padding: 5px 10px;
+    border-radius: 10px;
+    font-weight: bold;
+    background-color: black;
+    color: white;
+    margin-top: 100px;
+    margin-left: 100px;
+    align-content: center;
+    font-family: 'Agdasima', sans-serif;
+}
+div.search{
+    margin-top: 96px;
+    margin-left: 151px;
+width: 200px;
+height: 26px;
+}
+p#p1{
+    color: white;
+    font-size: 27px;
+    margin-top: 13px;
+    margin-left: 48px;
+}
